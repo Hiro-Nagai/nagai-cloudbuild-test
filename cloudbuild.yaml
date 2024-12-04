@@ -4,7 +4,7 @@ steps:
   - gcloud
   - functions
   - deploy
-  - cloud-build-demo
+  - nagai-cloudbuild-test
   - --region=asia-northeast1
   - --source=.
   - --trigger-http
